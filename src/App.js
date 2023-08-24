@@ -46,7 +46,7 @@ function App() {
               <Navbar />
             </div>
           </div>
-          {themeSettings && (<ThemeSettings />)}
+          {/* {themeSettings && (<ThemeSettings />)} */}
 
           <div>
             <Routes>
