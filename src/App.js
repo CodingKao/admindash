@@ -81,11 +81,11 @@ function App() {
 
             </Routes>
           </div>
-<Footer />
+          <Footer />
         </div>
       </BrowserRouter>
     </div>
   )
 }
 
-export default App
+export default App;
